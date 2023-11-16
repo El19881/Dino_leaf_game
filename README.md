@@ -1,3 +1,3 @@
-# Dino_egg_game
+# Dino_leaf_game
 
-Basic game of a dino catching an egg for pygame learning purposes
+Basic game of a dino catching a leaf for pygame learning purposes
